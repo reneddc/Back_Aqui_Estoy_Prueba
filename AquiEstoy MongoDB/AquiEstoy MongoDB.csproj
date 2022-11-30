@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>AquiEstoy_MongoDB</RootNamespace>
     <InvariantGlobalization>true</InvariantGlobalization>
+	<IsPublishable>false</IsPublishable>
   </PropertyGroup>
 
   <ItemGroup>
